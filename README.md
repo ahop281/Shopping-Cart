@@ -1,3 +1,7 @@
+# Shopping Cart
+
+Live demo [click here](https://ahop281.github.io/shopping-cart/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
